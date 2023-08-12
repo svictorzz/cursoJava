@@ -16,8 +16,6 @@ public class ExercicioAprovados {
         double[] nota1 = new double[n];
         double[] nota2 = new double[n];
         double[] medias = new double[n];
-        int qtdAprovados = 0;
-        String[] aprovados = new String[qtdAprovados];
 
         for (int i = 0; i < nomes.length; i++) {
             sc.nextLine();
